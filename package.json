@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/bumblebee87.lwc-la62aju0-fork-la62h93u",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve oiVLO1PF86N41Zs4Qj5x --open"
+  }
+}
